@@ -1,0 +1,98 @@
+.carousel-caption  {
+    color: rgb(14, 13, 8);
+    
+    }
+
+
+.vestidos{
+    width: 50%;
+    height: 50%;
+    }
+    
+    .pantalones{
+        width: 50%;
+        height:50%;
+        }
+    
+        .faldas{
+            width: 50%;
+            height: 50%;
+            }
+    
+            .short{
+                width: 50%;
+                height: 50%;
+                }
+    
+                .blusas{
+                    width: 100;
+                    height: auto;
+                    }
+    
+                    .lenceria{
+                        width: 100;
+                        height: auto;
+                        }
+     .img{
+        min-width: 10%;
+        min-height: 10%;
+     }  
+
+
+     /* estilos del footer */
+
+.footer {
+    background: indigo;
+    padding: 90px 0px 90px 0px;
+    height: 300px;
+}
+
+.footer1{
+    height: 100px;
+    width: 200px;
+}
+
+
+.footer-widget .widget-title {
+    color: #fff;
+    text-transform: capitalize;
+    font-size: 18px;
+}
+
+.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
+
+.footer-widget p, ul,li .footer-widget ul li {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.footer-widget .footer-links a {
+    color: rgba(255, 255, 255, 0.9);
+    font-weight: 700;
+    text-decoration: none
+    
+}
+
+.footer-btm {
+    background: indigo;
+    padding: 20px 0px 10px;
+}
+
+.copyright p ,li{
+    color: rgba(255, 255, 255, 0.8);
+}
+
+
+.list-inline-item:not(:last-child) {
+    margin-right: 0.5rem;
+}
+
+.list-inline-item {
+    display: inline-block;
+}
+.footer-socials a {
+    color: rgba(255, 255, 255, 0.8);
+    margin-right: 10px;
+}
